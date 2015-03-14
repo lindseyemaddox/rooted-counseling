@@ -28,3 +28,5 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="/_assets/js/main.js"></script>
 
+	<!--fonts-->
+	<link href='http://fonts.googleapis.com/css?family=Qwigley|Lato:400,700' rel='stylesheet' type='text/css'>

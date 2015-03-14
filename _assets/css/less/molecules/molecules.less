@@ -3,22 +3,53 @@ html {
 }
 body {
 	-webkit-font-smoothing: antialiased;
+	background: transparent url("/_assets/img/background.jpg") no-repeat scroll center center / cover;
 }
 
-@white:		#ffffff;
+@beige:		#bcae94;
+@brown:		#6c5f50;
+
+#container {
+	margin: 40px auto 35px;
+	max-width: 870px;
+	width: 90%;
+	border: 10px solid #fff;
+	background-color: @beige;
+	padding: 0 5% 50px;
+}
 
 h1 {
-
+	.qwigley;
+	color: @brown;
+	position: absolute;
+	top: 120px;
+	left: 25%;
+	font-size: 5em;
 }
 
 h2 {
-
+	font-size: 4em;
+	.lato;
+	color: @brown;
 }
 
 h3 {
-
+	.lato;
+	font-style: italic;
+	font-weight: 700;
+	font-size: 1.5em;
+	color: @brown;
+	padding: 10px 0;
+	a {
+		color: @brown;
+		text-decoration: none;
+	}
 }
 
 p {
-
+	.lato;
+	color: @brown;
+	font-size: 1em;
+	line-height: 1.5em;
+	padding-bottom: 10px;
 }

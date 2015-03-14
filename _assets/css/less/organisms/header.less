@@ -2,13 +2,60 @@
 /******** START MAIN HEADER AND NAVIGATION STYLES *********/
 
 
-header.main {
-	nav.main-nav {
+header {
+	position: relative;
+	nav {
 		ul {
-			li{}
-				a {}
+			position: absolute;
+			li {
+				display: inline-block;
+				.lato;
+				border-right: 1px solid @brown;
+				letter-spacing: 1px;
+				&:last-child {
+					border: none;
+				}
+				a {
+					color: @brown;
+					text-decoration: none;
+					&:hover {
+						color: #fff;
+						.transition;
+					}
+					&.active {
+						font-weight: 700;
+					}
+				}
 			}
-		#menu{}
+		}
+	}
+	nav#social {
+		ul {
+			top: 10px;
+			right: -10%;
+			width: 32%;
+			li {
+				font-size: .8em;
+				opacity: .5;
+				padding: 0 5%;
+			}
+		}
+	}
+	nav#main {
+		img.logo {
+			width: 95%;
+			margin: 15px 5% 15px 0;
+		}
+		ul {
+			top: 90px;
+			left: 30%;
+			width: 70%;
+			li {
+				font-size: 1.1em;
+				text-transform: uppercase;
+				padding: 0 1.5%;
+			}
+		}
 	}
 }
 
