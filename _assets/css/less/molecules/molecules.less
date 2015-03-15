@@ -43,7 +43,19 @@ h3 {
 	a {
 		color: @brown;
 		text-decoration: none;
+		&:hover {
+			color: #fff;
+			.transition;
+		}
 	}
+}
+
+h4 {
+	.lato;
+	font-weight: 700;
+	font-size: 1.3em;
+	color: @brown;
+	padding: 20px 0 0;
 }
 
 p {
@@ -52,4 +64,35 @@ p {
 	font-size: 1em;
 	line-height: 1.5em;
 	padding-bottom: 10px;
+	span.emphasis {
+		text-decoration: underline;
+		font-weight: 700;
+	}
+	a {
+		color: @brown;
+		text-decoration: underline;
+		.transition;
+		&:hover {
+			color: #fff;
+		}
+	}
+}
+
+ul {
+	padding: 20px 0 10px;
+	margin-left: 10px;
+	li {
+		.lato;
+		color: @brown;
+		font-size: 1em;
+		line-height: 1em;
+		padding-bottom: 10px;
+		list-style-type: disc;
+		ul {
+			padding-bottom: 0;
+			li {
+				list-style-type: circle;
+			}
+		}
+	}
 }

@@ -5,9 +5,60 @@ article {
 		padding: 0 0 50px 5%;
 		img {
 			width: 100%;
+			.drop-shadow;
+		}
+		&.no-shadow {
+			width: 100%;
+			img {
+				box-shadow: none;
+				-webkit-box-shadow: none;
+			    -moz-box-shadow: none;
+			}
 		}
 	}
 	&.multiple {
 		margin-top: 40px;
+	}
+	&.two {
+		display: inline-block;
+		width: 46%;
+		margin: 0 1.5%;
+		vertical-align: top;
+	}
+}
+
+div.form {
+	label {
+		.lato;
+		color: @brown;
+		font-size: 1em;
+		line-height: 1.5em;
+		display: block;
+	}
+	input {
+		width: 100%;
+		height: 30px;
+		border: none;
+		background-color: #fff;
+		margin-bottom: 15px;
+	}
+	textarea {
+		width: 100%;
+		height: 100px;
+		border: none;
+		background-color: #fff;
+		resize: none;
+	}
+	button {
+		width: 100%;
+		background-color: @brown;
+		color: #fff;
+		.qwigley;
+		font-size: 2em;
+		border: none;
+		.transition;
+		&:hover {
+			background-color: #abc19a;
+		}
 	}
 }

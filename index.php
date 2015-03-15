@@ -1,7 +1,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
-<section id="home">
+<section>
 
 	<article>
 
@@ -11,7 +11,7 @@
 
 		<p>The counselors at Rooted pride themselves in making their offices comfortable, welcoming, and warm environments. They recognize that if their client feels uncomfortable in their surroundings, they will have more difficulty connecting on a therapeutic level.</p>
 
-		<h3>and expect to build a relationship</h3>
+		<h3>and expect to build relationship</h3>
 
 		<p>The relationship between the counselors at Rooted and their clients is seen as one of the most important parts of therapy. “If we don’t have relationship, we have nothing.”</p>
 

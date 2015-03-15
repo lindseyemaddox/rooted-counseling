@@ -9,8 +9,7 @@
 
 			<ul>
 				<li><a href="https://www.facebook.com/pages/Rooted-Counseling/174940829198496" target="_blank" rel="nofollow">Facebook</a></li>
-				<li><a href="https://twitter.com/rootedcounsel" target="_blank" rel="nofollow">Twitter</a></li>
-				<li><a href="http://rootedcounseling.blogspot.com/" target="_blank">Blog</a></li>
+				<li><a href="https://instagram.com/rootedcounseling/" target="_blank" rel="nofollow">Instagram</a></li>
 			</ul>
 
 		</nav><!--social-->
@@ -23,7 +22,7 @@
 
 			<ul>
 
-				<li><a href="/">Home</a></li>
+				<li><a id="home" href="/">Home</a></li>
 				<li><a href="/about.php">About</a></li>
 				<li><a href="/services.php">Services</a></li>
 				<li><a href="/forms.php">Forms</a></li>

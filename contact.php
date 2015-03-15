@@ -2,6 +2,14 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
 <section>
+
+	<h3>Rooted Counseling</h3>
+
+	<p>4205 Hillsboro Pike Suite 202 Nashville, TN 37215</p>
+
+	<br/>
+
+	<article class="two">
 		
 		<div class="form">
 
@@ -33,12 +41,10 @@
 		        <div class='left'>
 			        <label for='name'>Name (required)</label><input type='text' required name='name' id='name' size='10'>
 			        <label for='phone'>Phone (required)</label><input type='text' required name='phone' id='phone' size='10'>
-			        <label for='email'>Email</label><input type='text' name='email' id='email' size='10'>
+			        <label for='email'>Email (required)</label><input type='text' required name='email' id='email' size='10'>
 		    	</div><!--left-->
 		    	<div class='right'>
-		    		<label for='desc'>How May We Help You?</label>
-			        <textarea name='desc' id='desc' size='10'></textarea>
-			        <button class='submit' type='submit' name='submit'>Send Form</button>
+			        <button class='submit' type='submit' name='submit'>Request an Appointment</button>
 				</div><!--right-->
 		      </form>";
 		      }
@@ -46,7 +52,42 @@
 
 		</div><!--form-->
 
+	</article>
+
+	<article class="two">
+
+		<div class="img no-shadow"><img src="/_assets/img/map.png" alt="map"></div>
+
+	</article>
+
+	<p>Rooted is located in the Hobbs Building on the south side of Green Hills. The Hobbs Building is on the corner of Hillsboro Road and Hobbs Road. Coming from I-440, take the US-431 South/Hillsboro Road exit and travel 1.7 miles to Hobbs Road (diagonally across from Exxon). To avoid Hillsboro traffic, you may wish to use Harding Place (off of I-65) to access Hillsboro Road during high traffic times.</p>
+
+	<p>Rooted is on the second floor of the Hobbs Building. For easiest access to suite 202, park adjacent to Hillsboro Road and use the stairs to the right of the street level entrance facing Hillsboro Pike. Upon entering on the second floor, our suite is the first door on the right, suite 202.</p>
+
+	<h3><a href="/pdf/directions.pdf">Downloadable Directions</a></h3>
+
+	<h4>You can contact a therapist directly to make an appointment:</h4>
+
+	<br/>
+
+	<article class="two">
+
+		<p>Ashley Colclasure<br/>
+		<a href="tel:16157727979">615-772-7979</a><br/>
+		<a href="mailto:Ashley@RootedCounseling.com">Ashley@RootedCounseling.com</a></p>
+
+	</article>
+
+	<article class="two">
+
+		<p>Jessi Bewley<br/>
+		<a href="tel:16152758233">615-275-8233</a><br/>
+		<a href="mailto:Jessi@RootedCounseling.com">Jessi@RootedCounseling.com</a></p>
+
+	</article>
+
 </section>
 
+</div><!--container-->
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
