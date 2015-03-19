@@ -9,7 +9,7 @@
 
 		<h2>Ashley Colclasure</h2>
 
-		<p>Ashley Colclasure, M.Ed., LPC-MHSP, NCC</p>
+		<p>M.Ed., LPC-MHSP, NCC</p>
 
 		<p>Ashley, the founder and director of Rooted Counseling, has been in private practice since 2010. A native Nashvillian, Ashley moved back to the area after her undergraduate studies at University of Georgia. She attended Vanderbilt University for graduate school and was awarded a Master’s degree in Human Development Counseling from Peabody College. Ashley married a Georgia boy named Ethan in 2008, and they now have two daughters, Townsley and Hazel.</p>
 

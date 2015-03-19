@@ -369,6 +369,14 @@ svg:not(:root) {
 .qwigley {
   font-family: 'Qwigley', cursive;
 }
+/* Document level adjustments */
+html {
+  font-size: 16px;
+}
+/* Modules will scale with document */
+div.container {
+  font-size: 1rem;
+}
 html {
   font-size: 16px;
 }
@@ -517,6 +525,12 @@ header nav#social ul li {
   opacity: .5;
   padding: 0 5%;
 }
+header a#showMenu {
+  display: none;
+}
+header nav#main {
+  margin-bottom: 30px;
+}
 header nav#main img.logo {
   width: 95%;
   margin: 15px 5% 15px 0;
@@ -625,8 +639,113 @@ div.form button:hover {
 /*================  RESPONSIVE STYLES  ================*/
 /*====================================================*/
 /*Contains ALL responsive code. Must be imported last so that it is the last css read.*/
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
+  html {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 900px) {
   html {
     font-size: 14px;
+  }
+  header nav#main ul {
+    top: 80px;
+  }
+  h1 {
+    top: 112px;
+  }
+}
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 13.5px;
+  }
+  h1 {
+    top: 101px;
+  }
+  nav#main ul {
+    height: 0;
+    overflow: hidden;
+    top: 0;
+    left: inherit;
+    right: -8%;
+  }
+  nav#main ul.expand {
+    top: 0;
+    left: auto;
+    right: -8%;
+    height: 300px;
+    width: 30%;
+    padding: 80px 20px 20px;
+    background-color: #fff;
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    -ms-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  nav#main ul.expand li {
+    border: none;
+    display: block;
+    line-height: 2.6em;
+  }
+  nav#main ul.expand li a:hover {
+    color: #bcae94;
+  }
+  header a#showMenu {
+    display: block;
+    position: absolute;
+    right: -4%;
+    top: 13px;
+    width: 10%;
+    z-index: 1;
+  }
+  header a#showMenu img {
+    width: 100%;
+  }
+  header nav#social ul {
+    display: none;
+  }
+  article.two {
+    width: 100%;
+  }
+  article.two ul {
+    padding: 0 0 0;
+  }
+  div.form button {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (max-width: 700px) {
+  h1 {
+    top: 92px;
+    font-size: 3em;
+  }
+  article div.img {
+    padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 600px) {
+  h1 {
+    top: 80px;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  nav#main ul.expand {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 500px) {
+  h1 {
+    top: 70px;
+    font-size: 2em;
+  }
+}
+@media screen and (max-width: 400px) {
+  nav#main ul.expand {
+    width: 50%;
+  }
+  h1 {
+    top: 58px;
   }
 }

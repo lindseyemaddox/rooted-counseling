@@ -14,6 +14,8 @@
 
 		</nav><!--social-->
 
+		<a id="showMenu"><img src="/_assets/img/menu.png" alt="menu button"></a>
+
 		<nav id="main">
 
 			<img class="logo" src="/_assets/img/logo.png" alt="Rooted Counseling logo" title="Rooted Counseling logo">

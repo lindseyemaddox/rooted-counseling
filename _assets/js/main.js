@@ -3,9 +3,7 @@
 // codekit pre-prends
 
 // set initial variables
-var $showMenu,
-	$header,
-	$content;
+var $showMenu;
 
 $(function() {
 	firstLoad();
@@ -14,30 +12,16 @@ $(function() {
 function firstLoad() {
 	initVars();
 	showMenu();
-	checkScreenSize();
 	initPlaceholders();
 }
 
 // function to set dom vars, etc that will not change
 function initVars() {
-	$nav 	= $('header.main nav.main-nav ul');
+	$nav 	= $('nav#main ul');
 	$showMenu 	= $('a#showMenu');
 }
 
-$(window).resize(function() {
-	checkScreenSize();
-});
-
-// checks to see if screen size requires mobile menu
-function checkScreenSize(){
-	if ($(window).width() < 950) {
-		$nav.removeClass('expand');
-	} else {
-		$nav.removeClass('expand');
-	}
-}
-
-// show hide left menu
+// show hide menu
 function showMenu(){
 	$showMenu.click(function(){
 		if ($nav.hasClass('expand')) {
