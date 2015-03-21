@@ -3,7 +3,7 @@
 
 <section>
 
-	<h3>Counseling Services we provide include treatment of the following:</h3>
+	<h3>Counseling Services provided include treatment of the following:</h3>
 
 	<article class="two">
 

@@ -19,9 +19,9 @@
  
 		<p>Ashley will claim that she has the best job in the world- She loves working with people and cannot believe that she has a career based on building healthy relationships and loving on people during their time of need. Come in, cozy up, and get ready to dig deep. </p>
 
-		<h3>Ashley Colclasure</h3>
-		<h3><a href="tel:16157727979">615-772-7979</a></h3>
-		<h3><a href="mailto:Ashley@RootedCounseling.com">email Ashley</a></h3>
+		<h4>Ashley Colclasure<br/>
+		<a href="tel:16157727979">615-772-7979</a><br/>
+		<a href="mailto:Ashley@RootedCounseling.com">email Ashley</a></h4>
 
 	</article>
 
@@ -39,9 +39,9 @@
 
 		<p>No one’s life is free of ups and downs. We all need a person to help us work through our unique challenges with a listening ear, a kind word and without judgment. This is what Jessi Bewley is all about.</p>
 
-		<h3>Jessi Bewley</h3>
-		<h3><a href="tel:16152758233">615-275-8233</a></h3>
-		<h3><a href="mailto:jessi@rootedcounseling.com">email Jessi</a></h3>
+		<h4>Jessi Bewley<br/>
+		<a href="tel:16152758233">615-275-8233</a><br/>
+		<a href="mailto:jessi@rootedcounseling.com">email Jessi</a></h4>
 
 	</article>
 

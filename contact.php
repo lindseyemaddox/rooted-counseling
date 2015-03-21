@@ -3,11 +3,17 @@
 
 <section>
 
-	<h3>Rooted Counseling</h3>
+	<article class="two">
 
-	<p>4205 Hillsboro Pike Suite 202 Nashville, TN 37215</p>
+		<h3>Rooted Counseling</h3>
 
-	<br/>
+		<p><a href="https://www.google.com/maps/@36.0843566,-86.8345731,14z" target="_blank" rel="nofollow">4205 Hillsboro Pike, Suite 202 <br/>Nashville, TN 37215</a></p>
+
+		<br/><br/>
+
+		<div class="img no-shadow"><img src="/_assets/img/map.png" alt="map"></div>
+
+	</article>
 
 	<article class="two">
 		
@@ -26,8 +32,8 @@
 		          $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 		          $message = '<html><body>';
 		          $message .= 'Name: '.$name.'<br>';
-		          $message .= 'Email: '.$email.'<br>';
 		          $message .= 'Phone: '.$phone.'<br>';
+		          $message .= 'Email: '.$email.'<br>';
 		          $message .= 'How May We Help You: '.$desc.'<br>';
 		          $message .= '</body></html>';
 		          $subject = 'new form submission';
@@ -42,6 +48,7 @@
 			        <label for='name'>Name (required)</label><input type='text' required name='name' id='name' size='10'>
 			        <label for='phone'>Phone (required)</label><input type='text' required name='phone' id='phone' size='10'>
 			        <label for='email'>Email (required)</label><input type='text' required name='email' id='email' size='10'>
+			        <label for='desc'>How may we help you?</label><textarea name='desc' id='desc' ></textarea>
 		    	</div><!--left-->
 		    	<div class='right'>
 			        <button class='submit' type='submit' name='submit'>Request an Appointment</button>
@@ -51,12 +58,6 @@
 		    ?>
 
 		</div><!--form-->
-
-	</article>
-
-	<article class="two">
-
-		<div class="img no-shadow"><img src="/_assets/img/map.png" alt="map"></div>
 
 	</article>
 
@@ -72,7 +73,7 @@
 
 	<article class="two">
 
-		<p>Ashley Colclasure<br/>
+		<p><a href="/therapists/ashley">Ashley Colclasure</a><br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
 		<a href="mailto:Ashley@RootedCounseling.com">Ashley@RootedCounseling.com</a></p>
 
@@ -80,7 +81,7 @@
 
 	<article class="two">
 
-		<p>Jessi Bewley<br/>
+		<p><a href="/therapists/jessi">Jessi Bewley</a><br/>
 		<a href="tel:16152758233">615-275-8233</a><br/>
 		<a href="mailto:Jessi@RootedCounseling.com">Jessi@RootedCounseling.com</a></p>
 

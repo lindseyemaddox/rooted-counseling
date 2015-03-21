@@ -28,18 +28,17 @@ h1 {
 }
 
 h2 {
-	font-size: 4em;
-	.lato;
+	.qwigley;
+	font-size: 3.3em;
 	color: @brown;
 }
 
 h3 {
-	.lato;
+	.qwigley;
 	font-style: italic;
-	font-weight: 700;
-	font-size: 1.5em;
+	font-size: 3em;
 	color: @brown;
-	padding: 10px 0;
+	padding: 10px 0 0;
 	a {
 		color: @brown;
 		text-decoration: none;
@@ -54,8 +53,17 @@ h4 {
 	.lato;
 	font-weight: 700;
 	font-size: 1.3em;
+	line-height: 1.5em;
 	color: @brown;
 	padding: 20px 0 0;
+	a {
+		color: @brown;
+		text-decoration: none;
+		&:hover {
+			color: #fff;
+			.transition;
+		}
+	}
 }
 
 p {
