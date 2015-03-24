@@ -17,7 +17,7 @@ function firstLoad() {
 
 // function to set dom vars, etc that will not change
 function initVars() {
-	$nav 	= $('nav#main ul');
+	$nav 	= $('nav#main > ul');
 	$showMenu 	= $('a#showMenu');
 }
 

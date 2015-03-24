@@ -18,16 +18,20 @@
 
 		<nav id="main">
 
-			<img class="logo" src="/_assets/img/logo.png" alt="Rooted Counseling logo" title="Rooted Counseling logo">
+			<a href="/"><img class="logo" src="/_assets/img/logo.png" alt="Rooted Counseling logo" title="Rooted Counseling logo"></a>
 
 			<h1>counseling</h1>
 
 			<ul>
 
-				<li><a id="home" href="/">Home</a></li>
-				<li><a href="/about.php">About</a></li>
+				<li><a href="#">Therapists</a>
+					<ul>
+						<li><a href="/ashley-colclasure.php">Ashley Colclasure</a></li>
+						<li><a href="/jessi-bewley.php">Jessi Bewley</a></li>
+					</ul>
+				</li>
 				<li><a href="/services.php">Services</a></li>
-				<li><a href="/forms.php">Forms</a></li>
+				<li><a href="/pdf/form-intake.pdf">Intake Form</a></li>
 				<li><a href="/contact.php">Contact</a></li>
 
 			</ul>

@@ -1,5 +1,5 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
+<?php require_once('_assets/inc/head.php'); // HTTP head?>
+<?php require_once('_assets/inc/navigation.php'); //navigation?>
 
 <section>
 
@@ -25,7 +25,7 @@
 		        $phone = $_REQUEST['phone'] ;
 		        $desc = $_REQUEST['desc'] ;
 		        if (isset($_POST['submit'])) {
-		          $to = 'lindseyemaddox@gmail.com';
+		          $to = 'Ashley@RootedCounseling.com';
 		          $headers = "From: " . strip_tags($_POST['email']) . "\r\n";
 		          $headers .= "Reply-To: ". strip_tags($_POST['email']) . "\r\n";
 		          $headers .= "MIME-Version: 1.0\r\n";
@@ -73,7 +73,7 @@
 
 	<article class="two">
 
-		<p><a href="/therapists/ashley">Ashley Colclasure</a><br/>
+		<p><a href="/ashley-colclasure.php">Ashley Colclasure</a><br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
 		<a href="mailto:Ashley@RootedCounseling.com">Ashley@RootedCounseling.com</a></p>
 
@@ -81,7 +81,7 @@
 
 	<article class="two">
 
-		<p><a href="/therapists/jessi">Jessi Bewley</a><br/>
+		<p><a href="/jessi-bewley.php">Jessi Bewley</a><br/>
 		<a href="tel:16152758233">615-275-8233</a><br/>
 		<a href="mailto:Jessi@RootedCounseling.com">Jessi@RootedCounseling.com</a></p>
 
@@ -91,4 +91,4 @@
 
 </div><!--container-->
 
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
+<?php require_once('_assets/inc/footer.php'); // footer, close body and html?>

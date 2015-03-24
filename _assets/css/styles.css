@@ -382,7 +382,7 @@ html {
 }
 body {
   -webkit-font-smoothing: antialiased;
-  background: transparent url("/_assets/img/background.jpg") no-repeat scroll center center / cover;
+  background: transparent url("/_assets/img/background.jpg") no-repeat scroll center top / cover;
 }
 #container {
   margin: 40px auto 35px;
@@ -408,7 +408,7 @@ h2 {
 h3 {
   font-family: 'Qwigley', cursive;
   font-style: italic;
-  font-size: 3em;
+  font-size: 2.6em;
   color: #6c5f50;
   padding: 10px 0 0;
 }
@@ -551,9 +551,40 @@ header nav#main ul {
   width: 70%;
 }
 header nav#main ul li {
-  font-size: 1.1em;
+  font-size: 1em;
   text-transform: uppercase;
   padding: 0 1.5%;
+  position: relative;
+}
+header nav#main ul li:hover ul {
+  height: 76px;
+  background-color: #bcae94;
+  border-left: 3px solid #6c5f50;
+  border-right: 3px solid #6c5f50;
+  border-bottom: 3px solid #6c5f50;
+  border-top: 10px solid #bcae94;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+header nav#main ul li:hover ul li {
+  display: block;
+  border-bottom: 1px solid #6c5f50;
+  border-right: none;
+  line-height: 2em;
+}
+header nav#main ul li ul {
+  height: 0px;
+  width: 240px;
+  overflow: hidden;
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+header nav#main ul li ul li {
+  padding: 0 20px;
 }
 /******** START MAIN FOOTER STYLES *********/
 footer {
@@ -566,7 +597,7 @@ footer p {
   text-align: center;
   font-family: 'Qwigley', cursive;
   color: #fff;
-  font-size: 1.9em;
+  font-size: 1.8em;
 }
 footer p a {
   color: #fff;
@@ -693,7 +724,7 @@ div.form button:hover {
     left: auto;
     right: -8%;
     height: 300px;
-    width: 30%;
+    width: 40%;
     padding: 80px 20px 20px;
     background-color: #fff;
     -webkit-transition: all 400ms ease;
@@ -709,6 +740,45 @@ div.form button:hover {
   }
   nav#main ul.expand li a:hover {
     color: #bcae94;
+  }
+  header nav#main ul li ul {
+    height: inherit;
+    position: inherit;
+    top: inherit;
+    left: inherit;
+    width: auto;
+  }
+  header nav#main ul li ul:hover {
+    height: auto;
+    width: auto;
+    position: relative;
+    top: inherit;
+    left: inherit;
+  }
+  header nav#main ul:hover li {
+    padding: 0;
+    height: auto;
+  }
+  header nav#main ul li {
+    padding: 0 0;
+  }
+  header nav#main ul li ul {
+    background-color: transparent;
+  }
+  header nav#main ul li ul li {
+    background-color: transparent;
+    padding: 0;
+  }
+  header nav#main ul li:hover ul {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    height: auto;
+  }
+  header nav#main ul li:hover ul li {
+    background-color: transparent;
+    border: none;
+    line-height: inherit;
   }
   header a#showMenu {
     display: block;
@@ -742,6 +812,9 @@ div.form button:hover {
   article div.img {
     padding-bottom: 20px;
   }
+  nav#main ul.expand {
+    width: 50%;
+  }
 }
 @media screen and (max-width: 600px) {
   h1 {
@@ -751,7 +824,7 @@ div.form button:hover {
     font-size: 2em;
   }
   nav#main ul.expand {
-    width: 40%;
+    width: 60%;
   }
 }
 @media screen and (max-width: 500px) {
@@ -759,10 +832,13 @@ div.form button:hover {
     top: 70px;
     font-size: 2em;
   }
+  nav#main ul.expand {
+    width: 75%;
+  }
 }
 @media screen and (max-width: 400px) {
   nav#main ul.expand {
-    width: 50%;
+    width: 100%;
   }
   h1 {
     top: 58px;

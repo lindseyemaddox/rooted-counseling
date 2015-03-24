@@ -1,5 +1,5 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
+<?php require_once('_assets/inc/head.php'); // HTTP head?>
+<?php require_once('_assets/inc/navigation.php'); //navigation?>
 
 <section>
 
@@ -38,7 +38,7 @@
 
 	<ul>
 		<li>All intakes are 75 minutes and cost $150.00</li>
-		<li>All other sessions are 50 minutes and vary depending on the counselor:
+		<li>All other sessions are 50 minutes and vary in cost depending on the counselor:
 			<ul>
 				<li>Sessions with Ashley Colclasure: $120.00</li>
 				<li>Sessions with Jessi Bewley: $100.00</li>
@@ -54,4 +54,4 @@
 
 </div><!--container-->
 
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
+<?php require_once('_assets/inc/footer.php'); // footer, close body and html?>
