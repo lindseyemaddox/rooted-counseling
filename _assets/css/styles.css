@@ -402,7 +402,7 @@ h1 {
 }
 h2 {
   font-family: 'Qwigley', cursive;
-  font-size: 3.3em;
+  font-size: 2.6em;
   color: #6c5f50;
 }
 h3 {
@@ -452,6 +452,7 @@ p {
   font-size: 1em;
   line-height: 1.5em;
   padding-bottom: 10px;
+  text-align: justify;
 }
 p span.emphasis {
   text-decoration: underline;
@@ -553,7 +554,7 @@ header nav#main ul {
 header nav#main ul li {
   font-size: 1em;
   text-transform: uppercase;
-  padding: 0 1.5%;
+  padding: 0 1.2%;
   position: relative;
 }
 header nav#main ul li:hover ul {
