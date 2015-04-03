@@ -19,7 +19,7 @@
 
 		<p>The counselors at Rooted are Licensed Professional Counselors in the State of Tennessee. The pursuit of licensure is a stringent process that requires all licensees to attain (at least) two years of supervision after a counselor’s three or more years of graduate studies. Therefore, Rooted counselors have attained at least 5 years of post-undergraduate experience in the counseling field.</p>
 
-		<h3>...that use empirically supported therapy techniques.</h3>
+		<h3>...that use empirically supported therapy techniques</h3>
 
 		<p>Rooted counselors aren’t just shooting in the dark. Though they recognize that the relationship is an integral part of the therapeutic relationship, they also know the importance of using therapy techniques that have been researched and proven successful. </p>
 		
