@@ -41,7 +41,7 @@
 		<li>All other sessions are 50 minutes and vary in cost depending on the counselor:
 			<ul>
 				<li>Sessions with Ashley Colclasure: $120.00</li>
-				<li>Sessions with Jessi Bewley: $100.00</li>
+				<li>Sessions with Jessi Bewley: $120.00</li>
 			</ul>
 		</li>
 	</ul>

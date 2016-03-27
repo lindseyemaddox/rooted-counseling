@@ -24,7 +24,7 @@
 
 			<ul>
 
-				<li><a href="#">Therapists</a>
+				<li><a href="#">Counselors</a>
 					<ul>
 						<li><a href="/ashley-colclasure.php">Ashley Colclasure</a></li>
 						<li><a href="/jessi-bewley.php">Jessi Bewley</a></li>

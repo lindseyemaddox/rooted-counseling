@@ -8,6 +8,8 @@
 		<div class="img"><img src="/_assets/img/jessi-bewley.jpg" alt="Jessi Bewley" title="Jessi Bewley"></div>
 
 		<h2>Jessi Bewley</h2>
+		
+		<p>M.S., NCC</p>
 
 		<p>Jessi could be considered a "Middle Tennessee Gypsy." Born and raised in Lebanon, she moved to Murfreesboro to attend Middle Tennessee State University and graduated with a bachelor’s degree in Psychology. Jessi then set her sights on Music City to pursue graduate school at Lipscomb University, where she received a Masters degree in Professional Counseling. Upon graduation, Jessi immediately went into the counseling field. Jessi's yearlong internship at Father Ryan High School counseling students prepared her well for her full time position as a mental health counselor at Mental Health Cooperative working with school aged children and adolescents. </p>
 
