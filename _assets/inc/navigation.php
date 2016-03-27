@@ -24,10 +24,11 @@
 
 			<ul>
 
-				<li><a href="#">Counselors</a>
+				<li><a href="#">Our Team</a>
 					<ul>
 						<li><a href="/ashley-colclasure.php">Ashley Colclasure</a></li>
 						<li><a href="/jessi-bewley.php">Jessi Bewley</a></li>
+						<li><a href="/rae-anne-everts.php">Rae Anne Everts</a></li>
 					</ul>
 				</li>
 				<li><a href="/services.php">Services</a></li>

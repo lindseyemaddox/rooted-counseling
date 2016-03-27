@@ -550,6 +550,7 @@ header nav#main ul {
   top: 90px;
   left: 30%;
   width: 70%;
+  text-align: right;
 }
 header nav#main ul li {
   font-size: 1em;
@@ -558,35 +559,38 @@ header nav#main ul li {
   position: relative;
 }
 header nav#main ul li:hover ul {
-  height: 76px;
-  background-color: #bcae94;
-  border-left: 3px solid #6c5f50;
-  border-right: 3px solid #6c5f50;
+  height: 141px;
   border-bottom: 3px solid #6c5f50;
-  border-top: 10px solid #bcae94;
   -webkit-transition: all 400ms ease;
   -moz-transition: all 400ms ease;
   -o-transition: all 400ms ease;
   -ms-transition: all 400ms ease;
   transition: all 400ms ease;
 }
-header nav#main ul li:hover ul li {
-  display: block;
-  border-bottom: 1px solid #6c5f50;
-  border-right: none;
-  line-height: 2em;
-}
 header nav#main ul li ul {
+  background-color: #bcae94;
   height: 0px;
   width: 240px;
   overflow: hidden;
   position: absolute;
-  top: 15px;
+  top: 15.5px;
   left: 0;
 }
 header nav#main ul li ul li {
   padding: 0 20px;
+  display: block;
+  border-bottom: 1px solid #6c5f50;
+  border-left: 3px solid #6c5f50;
+  border-right: 3px solid #6c5f50;
+  line-height: 2.5em;
 }
+header nav#main ul li ul li:last-child {
+  border-bottom: 3px solid #6c5f50;
+}
+header nav#main ul li ul li:first-child {
+  margin-top: 16px;
+}
+/******** END MAIN HEADER AND NAVIGATION STYLES *********/
 /******** START MAIN FOOTER STYLES *********/
 footer {
   margin: 40px auto 75px;
@@ -607,14 +611,21 @@ footer p a {
 footer p a:hover {
   text-decoration: underline;
 }
+/******** END FOOTER STYLES *********/
 /*================================================*/
 /*================  PAGE STYLES  ================*/
 /*==============================================*/
 /* (Styles for pages with elements occuring in ways specific to the page.) */
+article#home div.img {
+  padding-bottom: 50px;
+}
+article#home h2 {
+  font-style: italic;
+}
 article div.img {
   float: right;
   width: 45%;
-  padding: 0 0 50px 5%;
+  padding: 0 0 24px 5%;
 }
 article div.img img {
   width: 100%;
@@ -694,6 +705,18 @@ div.form button:hover {
   html {
     font-size: 15px;
   }
+  article#home div.img {
+    padding-bottom: 30px;
+  }
+  header nav#main ul li:hover ul {
+    height: 128px;
+  }
+  header nav#main ul li ul {
+    top: 15px;
+  }
+  header nav#main ul li:hover ul li:first-child {
+    margin-top: 11px;
+  }
 }
 @media screen and (max-width: 900px) {
   html {
@@ -705,6 +728,12 @@ div.form button:hover {
   h1 {
     top: 112px;
   }
+  header nav#main ul li:hover ul {
+    height: 121px;
+  }
+  header nav#main ul li ul {
+    top: 15px;
+  }
 }
 @media screen and (max-width: 800px) {
   html {
@@ -713,19 +742,25 @@ div.form button:hover {
   h1 {
     top: 101px;
   }
-  nav#main ul {
+  header nav#main ul li:hover ul li:first-child {
+    margin-top: 0;
+  }
+  header nav#main ul li:hover ul {
+    padding: 0 10px 0 0;
+  }
+  header nav#main ul {
     height: 0;
     overflow: hidden;
     top: 0;
     left: inherit;
     right: -8%;
+    width: 40%;
   }
-  nav#main ul.expand {
+  header nav#main ul.expand {
     top: 0;
     left: auto;
     right: -8%;
-    height: 300px;
-    width: 40%;
+    height: 340px;
     padding: 80px 20px 20px;
     background-color: #fff;
     -webkit-transition: all 400ms ease;
@@ -734,34 +769,42 @@ div.form button:hover {
     -ms-transition: all 400ms ease;
     transition: all 400ms ease;
   }
-  nav#main ul.expand li {
+  header nav#main ul.expand li {
     border: none;
     display: block;
     line-height: 2.6em;
   }
-  nav#main ul.expand li a:hover {
+  header nav#main ul.expand li a:hover {
     color: #bcae94;
+    transition: none;
+  }
+  header nav#main ul.expand li a:hover ul {
+    transition: none;
   }
   header nav#main ul li ul {
     height: inherit;
     position: inherit;
     top: inherit;
-    left: inherit;
     width: auto;
+    padding-right: 10px;
   }
   header nav#main ul li ul:hover {
     height: auto;
     width: auto;
     position: relative;
-    top: inherit;
-    left: inherit;
+  }
+  header nav#main ul li ul li:last-child {
+    border-bottom: none;
+  }
+  header nav#main ul li ul li:first-child {
+    margin-top: 0;
   }
   header nav#main ul:hover li {
     padding: 0;
     height: auto;
   }
   header nav#main ul li {
-    padding: 0 0;
+    padding: 0;
   }
   header nav#main ul li ul {
     background-color: transparent;
@@ -773,7 +816,6 @@ div.form button:hover {
   header nav#main ul li:hover ul {
     background-color: transparent;
     border: none;
-    padding: 0;
     height: auto;
   }
   header nav#main ul li:hover ul li {
@@ -816,6 +858,9 @@ div.form button:hover {
   nav#main ul.expand {
     width: 50%;
   }
+  #home div.img {
+    display: none;
+  }
 }
 @media screen and (max-width: 600px) {
   h1 {
@@ -843,5 +888,9 @@ div.form button:hover {
   }
   h1 {
     top: 58px;
+  }
+  header nav#main ul.expand {
+    padding-top: 60px;
+    height: 330px;
   }
 }

@@ -2,6 +2,18 @@
 	html {
 		font-size: 15px;
 	}
+	article#home div.img {
+		padding-bottom: 30px;
+	}
+	header nav#main ul li:hover ul {
+		height: 128px;
+	}
+	header nav#main ul li ul {
+		top: 15px;
+	}
+	header nav#main ul li:hover ul li:first-child {
+		margin-top: 11px;
+	}
 }
 
 @media screen and (max-width: 900px) {
@@ -14,6 +26,12 @@
 	h1 {
 		top: 112px;
 	}
+	header nav#main ul li:hover ul {
+		height: 121px;
+	}
+	header nav#main ul li ul {
+		top: 15px;
+	}
 }
 
 @media screen and (max-width: 800px) {
@@ -23,18 +41,24 @@
 	h1 {
 		top: 101px;
 	}
-	nav#main ul {
+	header nav#main ul li:hover ul li:first-child {
+		margin-top: 0;
+	}
+	header nav#main ul li:hover ul {
+		padding: 0 10px 0 0;
+	}
+	header nav#main ul {
 		height: 0;
 		overflow: hidden;
 		top: 0;
 		left: inherit;
 		right: -8%;
+		width: 40%;
 		&.expand {
 			top: 0;
 			left: auto;
 			right: -8%;
-			height: 300px;
-			width: 40%;
+			height: 340px;
 			padding: 80px 20px 20px;
 			background-color: #fff;
 			.transition;
@@ -44,6 +68,10 @@
 				line-height: 2.6em;
 				a:hover {
 					color: @beige;
+					transition: none;
+					ul {
+						transition: none;
+					}
 				}
 			}
 		}
@@ -52,17 +80,20 @@
 		height: inherit;
 		position: inherit;
 		top: inherit;
-		left: inherit;
 		width: auto;
+		padding-right: 10px;
 		&:hover {
 			height: auto;
 			width: auto;
 			position: relative;
-			top: inherit;
-			left: inherit;
 		}
 	}
-
+	header nav#main ul li ul li:last-child {
+		border-bottom: none;
+	}
+	header nav#main ul li ul li:first-child {
+		margin-top: 0;
+	}
 	header nav#main ul {
 		&:hover {
 			li {
@@ -71,7 +102,7 @@
 			}
 		}
 		li {
-			padding: 0 0;
+			padding: 0;
 			ul {
 				background-color: transparent;
 				li {
@@ -82,7 +113,6 @@
 			&:hover ul {
 				background-color: transparent;
 				border: none;
-				padding: 0;
 				height: auto;
 				li {
 					background-color: transparent;
@@ -129,6 +159,9 @@
 	nav#main ul.expand {
 		width: 50%;
 	}
+	#home div.img {
+		display: none;
+	}
 }
 
 @media screen and (max-width: 600px) {
@@ -159,6 +192,10 @@
 	}
 	h1 {
 		top: 58px;
+	}
+	header nav#main ul.expand {
+		padding-top: 60px;
+		height: 330px;
 	}
 }
 

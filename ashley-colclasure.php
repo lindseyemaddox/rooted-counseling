@@ -11,7 +11,7 @@
 
 		<p>M.Ed., LPC-MHSP, NCC</p>
 
-		<p>Ashley, the founder and director of Rooted Counseling, has been in private practice since 2010. A native Nashvillian, Ashley moved back to the area after her undergraduate studies at University of Georgia. She attended Vanderbilt University for graduate school and was awarded a Master’s degree in Human Development Counseling from Peabody College. Ashley married a Georgia boy named Ethan in 2008, and they now have two daughters, Townsley and Hazel.</p>
+		<p>Ashley, the founder and director of Rooted Counseling, has been in private practice since 2010. A native Nashvillian, Ashley moved back to the area after her undergraduate studies at University of Georgia. She attended Vanderbilt University for graduate school and was awarded a Master’s degree in Human Development Counseling from Peabody College. Ashley married a Georgia boy named Ethan in 2008, and they now have three daughters, Townsley, Hazel, and Adelaide.</p>
 
 		<p>Ashley aims to make counseling a safe and comfortable experience for her clients. Once you step into her office, you will feel at home. Though Ashley often uses Cognitive Behavioral Therapy and Dialectical Behavior Therapy in her work with clients, she considers herself an Integrative Therapist, using a variety of counseling modalities as best to meet the needs of each individual.</p>
 

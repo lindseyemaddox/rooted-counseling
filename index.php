@@ -3,7 +3,7 @@
 
 <section>
 
-	<article>
+	<article id="home">
 
 		<div class="img"><img src="/_assets/img/plow.jpg" alt="vintage plow on farm" title="vintage plow on farm"></div>
 
@@ -15,9 +15,9 @@
 
 		<p>The relationship between the counselors at Rooted and their clients is seen as one of the most important parts of therapy. “If we don’t have relationship, we have nothing.”</p>
 
-		<h3>...with licensed practitioners</h3>
+		<h3>...with experienced professionals</h3>
 
-		<p>The counselors at Rooted are Licensed Professional Counselors in the State of Tennessee. The pursuit of licensure is a stringent process that requires all licensees to attain (at least) two years of supervision after a counselor’s three or more years of graduate studies. Therefore, Rooted counselors have attained at least 5 years of post-undergraduate experience in the counseling field.</p>
+		<p>Rooted Counseling takes great care in hiring only the most seasoned therapists. The pursuit of licensure in the State of Tennessee is a stringent process, requiring all licensees to attain (at least) 2 years of supervision after his or her 3 or more years of graduate studies. While most therapists at Rooted are already licensed, a select few are undergoing supervision towards licensure to provide the best care for their clients.</p>
 
 		<h3>...that use empirically supported therapy techniques</h3>
 

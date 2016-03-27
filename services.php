@@ -42,6 +42,7 @@
 			<ul>
 				<li>Sessions with Ashley Colclasure: $120.00</li>
 				<li>Sessions with Jessi Bewley: $120.00</li>
+				<li>Sessions with Rae Anne Everts: $90.00</li>
 			</ul>
 		</li>
 	</ul>
