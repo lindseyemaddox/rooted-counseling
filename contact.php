@@ -1,4 +1,5 @@
 <?php require_once('_assets/inc/head.php'); // HTTP head?>
+<title>Contact | Rooted Counseling</title>
 <?php require_once('_assets/inc/navigation.php'); //navigation?>
 
 <section>
@@ -71,19 +72,27 @@
 
 	<br/>
 
-	<article class="two">
+	<article>
 
 		<p><a href="/ashley-colclasure.php">Ashley Colclasure</a><br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
-		<a href="mailto:Ashley@RootedCounseling.com">Ashley@RootedCounseling.com</a></p>
+		<a href="mailto:ashley@rootedcounseling.com">Ashley@RootedCounseling.com</a></p>
 
 	</article>
 
-	<article class="two">
+	<article>
 
 		<p><a href="/jessi-bewley.php">Jessi Bewley</a><br/>
 		<a href="tel:16152758233">615-275-8233</a><br/>
-		<a href="mailto:Jessi@RootedCounseling.com">Jessi@RootedCounseling.com</a></p>
+		<a href="mailto:jessi@rootedcounseling.com">Jessi@RootedCounseling.com</a></p>
+
+	</article>
+
+	<article>
+
+		<p><a href="/rae-anne-everts.php">Rae Anne Everts</a><br/>
+		<a href="tel:16158230874">615-823-0874</a><br/>
+		<a href="mailto:raeanne@rootedcounseling.com">RaeAnne@RootedCounseling.com</a></p>
 
 	</article>
 

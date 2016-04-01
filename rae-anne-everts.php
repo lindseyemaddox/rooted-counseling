@@ -1,4 +1,5 @@
 <?php require_once('_assets/inc/head.php'); // HTTP head?>
+<title>Rae Anne Everts | Rooted Counseling</title>
 <?php require_once('_assets/inc/navigation.php'); //navigation?>
 
 <section>
@@ -16,6 +17,10 @@
 		<p>Although Rae Anne loves her role as a therapist, she also enjoys running and yoga as well.  She is a certified yoga instructor and loves teaching yoga all over Nashville. She also loves spending time with her family, friends, and her puppies, Paul Simon & Bennett Terrell. The beach in Naples is her favorite spot because she feels most at peace and close to her late brother, Paul.</p>
  
 		<p>Rae Anne takes a holistic approach in therapy, incorporating several therapeutic theories, such as attachment, experiential, narrative, and cognitive behavioral therapy. Her passion is to help and encourage individuals in knowing that they are valued, worthy, and that there is hope. She looks forward to meeting with you, and she feels privileged to be a small part of your “BIG STORY!”</p>
+
+		<h4>Rae Anne Everts<br/>
+		<a href="tel:16158230874">615-823-0874</a><br/>
+		<a href="mailto:raeanne@rootedcounseling.com">email Rae Anne</a></h4>
 
 	</article>
 

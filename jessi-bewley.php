@@ -1,4 +1,5 @@
 <?php require_once('_assets/inc/head.php'); // HTTP head?>
+<title>Jessi Bewley | Rooted Counseling</title>
 <?php require_once('_assets/inc/navigation.php'); //navigation?>
 
 <section>
