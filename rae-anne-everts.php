@@ -17,6 +17,10 @@
  
 		<p>Rae Anne takes a holistic approach in therapy, incorporating several therapeutic theories, such as attachment, experiential, narrative, and cognitive behavioral therapy. Her passion is to help and encourage individuals in knowing that they are valued, worthy, and that there is hope. She looks forward to meeting with you, and she feels privileged to be a small part of your “BIG STORY!”</p>
 
+		<h4>Rae Anne Everts<br/>
+		<a href="tel:16158230874">615-823-0874</a><br/>
+		<a href="mailto:raeanne@rootedcounseling.com">email Rae Anne</a></h4>
+
 	</article>
 
 </section>
