@@ -23,6 +23,7 @@
 		<h4>Ashley Colclasure<br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
 		<a href="mailto:Ashley@RootedCounseling.com">email Ashley</a></h4>
+		<p>Sessions with Ashley are $140.00.</p>
 
 	</article>
 

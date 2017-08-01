@@ -63,23 +63,27 @@ header {
 				position: relative;
 				&:hover {
 					ul {
-						height: 141px;
+  					height: 248px;
 						border-bottom: 3px solid @brown;
+            padding-top: 25px;
 						.transition;
-						li {
-
-						}
 					}
 				}
+				ul:hover {
+					height: 1248px;
+					border-bottom: 3px solid @brown;
+					padding-top: 25px;
+					.transition;
+				}
 				ul {
-					background-color: @beige;
 					height: 0px;
 					width: 240px;
 					overflow: hidden;
 					position: absolute;
-					top: 22px;
+					top: 0;
 					left: 0;
 					li {
+  					background-color: @beige;
 						padding: 0 20px;
 						display: block;
 						border-bottom: 1px solid @brown;

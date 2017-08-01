@@ -8,7 +8,7 @@
 
 		<h3>Rooted Counseling</h3>
 
-		<p><a href="https://www.google.com/maps/@36.0843566,-86.8345731,14z" target="_blank" rel="nofollow">4205 Hillsboro Pike, Suite 202 <br/>Nashville, TN 37215</a></p>
+		<p><a href="https://www.google.com/maps/@36.0843566,-86.8345731,14z" target="_blank" rel="nofollow">4219 Hillsboro Pike, Suite 208 <br/>Nashville, TN 37215</a></p>
 
 		<br/><br/>
 
@@ -62,9 +62,7 @@
 
 	</article>
 
-	<p>Rooted is located in the Hobbs Building on the south side of Green Hills. The Hobbs Building is on the corner of Hillsboro Road and Hobbs Road. Coming from I-440, take the US-431 South/Hillsboro Road exit and travel 1.7 miles to Hobbs Road (diagonally across from Exxon). To avoid Hillsboro traffic, you may wish to use Harding Place (off of I-65) to access Hillsboro Road during high traffic times.</p>
-
-	<p>Rooted is on the second floor of the Hobbs Building. For easiest access to suite 202, park adjacent to Hillsboro Road and use the stairs to the right of the street level entrance facing Hillsboro Pike. Upon entering on the second floor, our suite is the first door on the right, suite 202.</p>
+	<p>Rooted Counseling is located in the Hillsboro Building on the south side of Green Hills. The Hillsboro Building is on the corner of Hillsboro Road and Hobbs Road. Coming from I-440, take the US-431 South/Hillsboro Road exit and travel 1.7 miles to Hobbs Road (diagonally across from Exxon). The Hillsboro Building entrance is the second entrance past Hobbs Road on the right. To avoid Hillsboro traffic, you may wish to use Harding Place (off of I-65) to access Hillsboro Road during high traffic times. Rooted Counseling is on the second floor of the Hillsboro Building. For easiest access to suite 208, park adjacent to Hillsboro Road and use the stairs behind the “Hillsboro Building” sign. Upon entering on the second floor door, turn left at the hallway intersection, and our suite is the first door on the right, suite 208.</p>
 
 	<h3><a href="/pdf/directions.pdf">Downloadable Directions</a></h3>
 
@@ -74,9 +72,9 @@
 
 	<article>
 
-		<p><a href="/ashley-colclasure.php">Ashley Colclasure</a><br/>
-		<a href="tel:16157727979">615-772-7979</a><br/>
-		<a href="mailto:ashley@rootedcounseling.com">Ashley@RootedCounseling.com</a></p>
+		<p><a href="/lane-beatty.php">Lane Beatty</a><br/>
+		<a href="tel:16156361821">615-636-1821</a><br/>
+		<a href="mailto:lane@rootedcounseling.com">Lane@RootedCounseling.com</a></p>
 
 	</article>
 
@@ -90,9 +88,25 @@
 
 	<article>
 
+		<p><a href="/ashley-colclasure.php">Ashley Colclasure</a><br/>
+		<a href="tel:16157727979">615-772-7979</a><br/>
+		<a href="mailto:ashley@rootedcounseling.com">Ashley@RootedCounseling.com</a></p>
+
+	</article>
+
+	<article>
+
 		<p><a href="/rae-anne-everts.php">Rae Anne Everts</a><br/>
 		<a href="tel:16158230874">615-823-0874</a><br/>
 		<a href="mailto:raeanne@rootedcounseling.com">RaeAnne@RootedCounseling.com</a></p>
+
+	</article>
+
+	<article>
+
+		<p><a href="/michael-randolph.php">Michael Randolph</a><br/>
+		<a href="tel:16156695734">615-669-5734</a><br/>
+		<a href="mailto:michael@rootedcounseling.com">Michael@RootedCounseling.com</a></p>
 
 	</article>
 

@@ -14,7 +14,7 @@
 
 		<h3>...and expect to build relationship</h3>
 
-		<p>The relationship between the counselors at Rooted and their clients is seen as one of the most important parts of therapy. “If we don’t have relationship, we have nothing.”</p>
+		<p>One could say that the relationship between a counselor and a client is the most important part of counseling. Rooted Counselors work diligently to foster a genuine relational foundation mutual respect and rapport in order to have the best therapeutic outcome possible.</p>
 
 		<h3>...with experienced professionals</h3>
 

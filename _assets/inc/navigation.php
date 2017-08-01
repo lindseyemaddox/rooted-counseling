@@ -27,8 +27,10 @@
 				<li><a href="#">Our Team</a>
 					<ul>
 						<li><a href="/ashley-colclasure.php">Ashley Colclasure</a></li>
+						<li><a href="/lane-beatty.php">Lane Beatty</a></li>
 						<li><a href="/jessi-bewley.php">Jessi Bewley</a></li>
 						<li><a href="/rae-anne-everts.php">Rae Anne Everts</a></li>
+						<li><a href="/michael-randolph.php">Michael Randolph</a></li>
 					</ul>
 				</li>
 				<li><a href="/services.php">Services</a></li>

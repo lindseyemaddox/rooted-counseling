@@ -9,6 +9,8 @@
 		<div class="img"><img src="/_assets/img/rae-anne-everts.jpg" alt="Rae Anne Everts" title="Rae Anne Everts"></div>
 
 		<h2>Rae Anne Everts</h2>
+		
+		<p>M.M.F.T.</p>
 
 		<p>Though Rae Anne was raised in the North, she has lived in the South for the past 9 years. She obtained her Bachelor’s Degree from Bradley University and immediately began working in the fashion industry in Chicago. After a few years in the corporate world, she began working for the Young Life Organization in Atlanta, Georgia. Her vision for pursuing her graduate counseling degree first became apparent while taking a counseling course during seminary. Due to expected life events, however, this vision would not take root for years to come.</p>
 
@@ -21,6 +23,7 @@
 		<h4>Rae Anne Everts<br/>
 		<a href="tel:16158230874">615-823-0874</a><br/>
 		<a href="mailto:raeanne@rootedcounseling.com">email Rae Anne</a></h4>
+		<p>Sessions with Rae Anne are $100.00.</p>
 
 	</article>
 

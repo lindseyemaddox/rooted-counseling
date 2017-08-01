@@ -4,7 +4,7 @@
 
 <section>
 
-	<h3>Counseling Services provided include treatment of the following:</h3>
+	<h3>Counseling Services provided include treatment of the following*:</h3>
 
 	<article class="two">
 
@@ -12,10 +12,13 @@
 			<li>Adjustment Disorder</li>
 			<li>Anxiety</li>
 			<li>Behavioral Issues</li>
+			<li>Blended Family Issues</li>
 			<li>Body Image Issues</li>
 			<li>Codependency</li>
 			<li>Divorce Adjustment</li>
 			<li>Depression</li>
+			<li>Eating Disorders</li>
+			<li>Grief and Loss</li>
 		</ul>
 
 	</article>
@@ -23,28 +26,34 @@
 	<article class="two">
 
 		<ul>
-			<li>Eating Disorders</li>
-			<li>Grief and Loss</li>
+			<li>Healthy Sexuality</li>
+			<li>Infertility</li>
 			<li>Life transitions (expected and unexpected)</li>
+			<li>Marriage Issues</li>
+			<li>Men's issues</li>
 			<li>Postpartum Depression</li>
+			<li>Premarital Counseling</li>
 			<li>Relationship Problems</li>
 			<li>Self-Esteem</li>
+			<li>Substance Abuse/Addiction</li>
 		</ul>
 
 	</article>
 
-	<p>(This list is not extensive, but rather a general overview of some of presenting problems we see here at Rooted)</p>
+	<p>*This list is not all-encompassing, so if you have a specific presenting problem that is not listed above, do not hesitate to ask.</p>
 
 	<h4>Cost per session:</h4>
 
 	<ul>
-		<li>All intakes are 75 minutes and cost $150.00</li>
-		<li>All other sessions are 50 minutes and vary in cost depending on the counselor:
+		<li>All intakes are 75 minutes and cost $175.00</li>
+		<li>All other sessions are 50 minutes and vary in cost depending on the counselor.
+<!--
 			<ul>
-				<li>Sessions with Ashley Colclasure: $120.00</li>
+				<li>Sessions with Ashley Colclasure: $140.00</li>
 				<li>Sessions with Jessi Bewley: $120.00</li>
 				<li>Sessions with Rae Anne Everts: $90.00</li>
 			</ul>
+-->
 		</li>
 	</ul>
 

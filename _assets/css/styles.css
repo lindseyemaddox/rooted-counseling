@@ -559,8 +559,19 @@ header nav#main ul li {
   position: relative;
 }
 header nav#main ul li:hover ul {
-  height: 141px;
+  height: 248px;
   border-bottom: 3px solid #6c5f50;
+  padding-top: 25px;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+header nav#main ul li ul:hover {
+  height: 1248px;
+  border-bottom: 3px solid #6c5f50;
+  padding-top: 25px;
   -webkit-transition: all 400ms ease;
   -moz-transition: all 400ms ease;
   -o-transition: all 400ms ease;
@@ -568,15 +579,15 @@ header nav#main ul li:hover ul {
   transition: all 400ms ease;
 }
 header nav#main ul li ul {
-  background-color: #bcae94;
   height: 0px;
   width: 240px;
   overflow: hidden;
   position: absolute;
-  top: 22px;
+  top: 0;
   left: 0;
 }
 header nav#main ul li ul li {
+  background-color: #bcae94;
   padding: 0 20px;
   display: block;
   border-bottom: 1px solid #6c5f50;
@@ -760,7 +771,7 @@ div.form button:hover {
     top: 0;
     left: auto;
     right: -8%;
-    height: 380px;
+    height: 400px;
     padding: 80px 20px 20px;
     background-color: #fff;
     -webkit-transition: all 400ms ease;
@@ -859,7 +870,7 @@ div.form button:hover {
     width: 50%;
   }
   header nav#main ul.expand {
-    height: 350px;
+    height: 410px;
   }
   #home div.img {
     display: none;
@@ -874,9 +885,6 @@ div.form button:hover {
   }
   nav#main ul.expand {
     width: 60%;
-  }
-  header nav#main ul.expand {
-    height: 380px;
   }
 }
 @media screen and (max-width: 500px) {
