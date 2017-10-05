@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/_assets/img/ashley-colclasure.jpg" alt="Ashley Colclasure" title="Ashley Colclasure"></div>
+		<div class="img"><img src="/rootedcounseling.com/_assets/img/ashley-colclasure.jpg" alt="Ashley Colclasure" title="Ashley Colclasure"></div>
 
 		<h2>Ashley Colclasure</h2>
 

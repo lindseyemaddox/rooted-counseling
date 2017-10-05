@@ -12,7 +12,7 @@
 
 		<br/><br/>
 
-		<div class="img no-shadow"><img src="/_assets/img/map.png" alt="map"></div>
+		<div class="img no-shadow"><img src="/rootedcounseling.com/_assets/img/map.png" alt="map"></div>
 
 	</article>
 

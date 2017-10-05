@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/_assets/img/rae-anne-everts.jpg" alt="Rae Anne Everts" title="Rae Anne Everts"></div>
+		<div class="img"><img src="/rootedcounseling.com/_assets/img/rae-anne-everts.jpg" alt="Rae Anne Everts" title="Rae Anne Everts"></div>
 
 		<h2>Rae Anne Everts</h2>
 		

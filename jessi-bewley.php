@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/_assets/img/jessi-bewley.jpg" alt="Jessi Bewley" title="Jessi Bewley"></div>
+		<div class="img"><img src="/rootedcounseling.com/_assets/img/jessi-bewley.jpg" alt="Jessi Bewley" title="Jessi Bewley"></div>
 
 		<h2>Jessi Bewley</h2>
 		

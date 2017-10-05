@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/_assets/img/michael-randolph.jpg" alt="Michael Randolph" title="Michael Randolph"></div>
+		<div class="img"><img src="/rootedcounseling.com/_assets/img/michael-randolph.jpg" alt="Michael Randolph" title="Michael Randolph"></div>
 
 		<h2>Michael Randolph</h2>
 

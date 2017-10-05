@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/_assets/img/lane-beatty.jpg" alt="Lane Beatty" title="Lane Beatty"></div>
+		<div class="img"><img src="/rootedcounseling.com/_assets/img/lane-beatty.jpg" alt="Lane Beatty" title="Lane Beatty"></div>
 
 		<h2>Lane Beatty</h2>
 
