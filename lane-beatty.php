@@ -20,7 +20,8 @@
 
 		<h4>Lane Beatty<br/>
 		<a href="tel:16156361821">615-636-1821</a><br/>
-		<a href="mailto:Lane@RootedCounseling.com">email Lane</a></h4>
+		<a href="mailto:Lane@RootedCounseling.com">email Lane</a><br/>
+		<a href="/rootedcounseling.com/pdf/form-intake-beatty.pdf" target="_blank">download Lane's intake form</a></h4>
 		<p>Sessions with Lane are $130.00.</p>
 
 	</article>

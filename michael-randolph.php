@@ -20,7 +20,8 @@
 
 		<h4>Michael Randolph<br/>
 		<a href="tel:16156695734">615-669-5734</a><br/>
-		<a href="mailto:michael@rootedcounseling.com">email Michael</a></h4>
+		<a href="mailto:michael@rootedcounseling.com">email Michael</a><br/>
+		<a href="/rootedcounseling.com/pdf/form-intake-randolph.pdf" target="_blank">download Michael's intake form</a></h4>
 		<p>Sessions with Michael are $120.00.</p>
 
 	</article>

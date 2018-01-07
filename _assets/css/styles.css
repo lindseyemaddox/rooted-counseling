@@ -580,7 +580,7 @@ header nav#main ul li ul:hover {
 }
 header nav#main ul li ul {
   height: 0px;
-  width: 240px;
+  width: 250px;
   overflow: hidden;
   position: absolute;
   top: 0;
@@ -765,14 +765,14 @@ div.form button:hover {
     top: 0;
     left: inherit;
     right: -8%;
-    width: 40%;
+    width: 45%;
   }
   header nav#main ul.expand {
     top: 0;
     left: auto;
     right: -8%;
     height: 400px;
-    padding: 80px 20px 20px;
+    padding: 80px 10px 20px;
     background-color: #fff;
     -webkit-transition: all 400ms ease;
     -moz-transition: all 400ms ease;
@@ -884,7 +884,7 @@ div.form button:hover {
     font-size: 2em;
   }
   nav#main ul.expand {
-    width: 60%;
+    width: 65%;
   }
 }
 @media screen and (max-width: 500px) {

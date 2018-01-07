@@ -8,7 +8,7 @@
 
 		<h3>Rooted Counseling</h3>
 
-		<p><a href="https://www.google.com/maps/@36.0843566,-86.8345731,14z" target="_blank" rel="nofollow">4219 Hillsboro Pike, Suite 208 <br/>Nashville, TN 37215</a></p>
+		<p><a href="https://goo.gl/maps/SLfSNKqrdFN2" target="_blank" rel="nofollow">4219 Hillsboro Pike, Suite 208 <br/>Nashville, TN 37215</a></p>
 
 		<br/><br/>
 
@@ -64,7 +64,7 @@
 
 	<p>Rooted Counseling is located in the Hillsboro Building on the south side of Green Hills. The Hillsboro Building is on the corner of Hillsboro Road and Hobbs Road. Coming from I-440, take the US-431 South/Hillsboro Road exit and travel 1.7 miles to Hobbs Road (diagonally across from Exxon). The Hillsboro Building entrance is the second entrance past Hobbs Road on the right. To avoid Hillsboro traffic, you may wish to use Harding Place (off of I-65) to access Hillsboro Road during high traffic times. Rooted Counseling is on the second floor of the Hillsboro Building. For easiest access to suite 208, park adjacent to Hillsboro Road and use the stairs behind the “Hillsboro Building” sign. Upon entering on the second floor door, turn left at the hallway intersection, and our suite is the first door on the right, suite 208.</p>
 
-	<h3><a href="/pdf/directions.pdf">Downloadable Directions</a></h3>
+	<h3><a href="/rootedcounseling.com/pdf/directions.pdf" target="_blank">Downloadable Directions</a></h3>
 
 	<h4>You can contact a therapist directly to make an appointment:</h4>
 
@@ -72,7 +72,7 @@
 
 	<article>
 
-		<p><a href="/lane-beatty.php">Lane Beatty</a><br/>
+		<p><a href="/rootedcounseling.com/lane-beatty.php">Lane Beatty</a><br/>
 		<a href="tel:16156361821">615-636-1821</a><br/>
 		<a href="mailto:lane@rootedcounseling.com">Lane@RootedCounseling.com</a></p>
 
@@ -80,15 +80,7 @@
 
 	<article>
 
-		<p><a href="/jessi-bewley.php">Jessi Bewley</a><br/>
-		<a href="tel:16152758233">615-275-8233</a><br/>
-		<a href="mailto:jessi@rootedcounseling.com">Jessi@RootedCounseling.com</a></p>
-
-	</article>
-
-	<article>
-
-		<p><a href="/ashley-colclasure.php">Ashley Colclasure</a><br/>
+		<p><a href="/rootedcounseling.com/ashley-colclasure.php">Ashley Colclasure</a><br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
 		<a href="mailto:ashley@rootedcounseling.com">Ashley@RootedCounseling.com</a></p>
 
@@ -96,17 +88,25 @@
 
 	<article>
 
-		<p><a href="/rae-anne-everts.php">Rae Anne Everts</a><br/>
-		<a href="tel:16158230874">615-823-0874</a><br/>
-		<a href="mailto:raeanne@rootedcounseling.com">RaeAnne@RootedCounseling.com</a></p>
+		<p><a href="/rootedcounseling.com/courtney-mcinturff.php">Courtney McInturff</a><br/>
+		<a href="tel:16158049567">615-804-9567</a><br/>
+		<a href="mailto:courtney@rootedcounseling.com">Courtney@RootedCounseling.com</a></p>
 
 	</article>
 
 	<article>
 
-		<p><a href="/michael-randolph.php">Michael Randolph</a><br/>
+		<p><a href="/rootedcounseling.com/michael-randolph.php">Michael Randolph</a><br/>
 		<a href="tel:16156695734">615-669-5734</a><br/>
 		<a href="mailto:michael@rootedcounseling.com">Michael@RootedCounseling.com</a></p>
+
+	</article>
+
+	<article>
+
+		<p><a href="/rootedcounseling.com/jessi-bewley.php">Jessi Schlachter</a><br/>
+		<a href="tel:16152758233">615-275-8233</a><br/>
+		<a href="mailto:jessi@rootedcounseling.com">Jessi@RootedCounseling.com</a></p>
 
 	</article>
 
