@@ -728,31 +728,6 @@ div.form button:hover {
   header nav#main ul li:hover ul li:first-child {
     margin-top: 11px;
   }
-}
-@media screen and (max-width: 900px) {
-  html {
-    font-size: 14px;
-  }
-  header nav#main ul {
-    top: 80px;
-  }
-  h1 {
-    top: 112px;
-  }
-  header nav#main ul li:hover ul {
-    height: 121px;
-  }
-  header nav#main ul li ul {
-    top: 15px;
-  }
-}
-@media screen and (max-width: 800px) {
-  html {
-    font-size: 13.5px;
-  }
-  h1 {
-    top: 101px;
-  }
   header nav#main ul li:hover ul li:first-child {
     margin-top: 0;
   }
@@ -765,13 +740,13 @@ div.form button:hover {
     top: 0;
     left: inherit;
     right: -8%;
-    width: 45%;
+    width: 250px;
   }
   header nav#main ul.expand {
     top: 0;
     left: auto;
-    right: -8%;
-    height: 400px;
+    right: -40px;
+    height: 420px;
     padding: 80px 10px 20px;
     background-color: #fff;
     -webkit-transition: all 400ms ease;
@@ -837,9 +812,9 @@ div.form button:hover {
   header a#showMenu {
     display: block;
     position: absolute;
-    right: -4%;
+    right: -28px;
     top: 13px;
-    width: 10%;
+    width: 45px;
     z-index: 1;
   }
   header a#showMenu img {
@@ -847,6 +822,22 @@ div.form button:hover {
   }
   header nav#social ul {
     display: none;
+  }
+}
+@media screen and (max-width: 900px) {
+  html {
+    font-size: 14px;
+  }
+  h1 {
+    top: 112px;
+  }
+}
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 13.5px;
+  }
+  h1 {
+    top: 101px;
   }
   article.two {
     width: 100%;
@@ -866,12 +857,6 @@ div.form button:hover {
   article div.img {
     padding-bottom: 20px;
   }
-  nav#main ul.expand {
-    width: 50%;
-  }
-  header nav#main ul.expand {
-    height: 410px;
-  }
   #home div.img {
     display: none;
   }
@@ -883,20 +868,20 @@ div.form button:hover {
   h2 {
     font-size: 2em;
   }
-  nav#main ul.expand {
-    width: 65%;
-  }
 }
 @media screen and (max-width: 500px) {
   h1 {
     top: 70px;
     font-size: 2em;
   }
-  nav#main ul.expand {
-    width: 75%;
-  }
   #container {
     padding: 0 25px 50px;
+  }
+  header nav#main ul.expand {
+    right: -30px;
+  }
+  header a#showMenu {
+    right: -18px;
   }
 }
 @media screen and (max-width: 400px) {
@@ -905,9 +890,5 @@ div.form button:hover {
   }
   h1 {
     top: 58px;
-  }
-  header nav#main ul.expand {
-    padding-top: 60px;
-    height: 390px;
   }
 }
