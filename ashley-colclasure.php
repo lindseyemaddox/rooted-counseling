@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/rootedcounseling.com/_assets/img/ashley-colclasure.jpg" alt="Ashley Colclasure" title="Ashley Colclasure"></div>
+		<div class="img"><img src="/_assets/img/ashley-colclasure.jpg" alt="Ashley Colclasure" title="Ashley Colclasure"></div>
 
 		<h2>Ashley Colclasure</h2>
 
@@ -23,7 +23,7 @@
 		<h4>Ashley Colclasure<br/>
 		<a href="tel:16157727979">615-772-7979</a><br/>
 		<a href="mailto:Ashley@RootedCounseling.com">email Ashley</a><br/>
-		<a href="/rootedcounseling.com/pdf/form-intake-colclasure.pdf" target="_blank">download Ashley's intake form</a></h4>
+		<a href="/pdf/form-intake-colclasure.pdf" target="_blank">download Ashley's intake form</a></h4>
 		<p>Sessions with Ashley are $140.00.</p>
 
 	</article>

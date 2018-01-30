@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/rootedcounseling.com/_assets/img/courtney-mcinturff.jpg" alt="Courtney McInturff" title="Courtney McInturff"></div>
+		<div class="img"><img src="/_assets/img/courtney-mcinturff.jpg" alt="Courtney McInturff" title="Courtney McInturff"></div>
 
 		<h2>Courtney McInturff</h2>
 		
@@ -27,7 +27,7 @@
 		<h4>Courtney McInturff<br/>
 		<a href="tel:16158049567">615-804-9567</a><br/>
 		<a href="mailto:courtney@rootedcounseling.com">email Courtney</a><br/>
-		<a href="/rootedcounseling.com/pdf/form-intake-mcinturff.pdf" target="_blank">download Courtney's intake form</a></h4>
+		<a href="/pdf/form-intake-mcinturff.pdf" target="_blank">download Courtney's intake form</a></h4>
 		<p>Sessions with Courtney are $100.00.</p>
 
 	</article>

@@ -6,7 +6,7 @@
 
 	<article>
 
-		<div class="img"><img src="/rootedcounseling.com/_assets/img/jessi-schlachter.jpg" alt="Jessi Schlachter" title="Jessi Schlachter"></div>
+		<div class="img"><img src="/_assets/img/jessi-schlachter.jpg" alt="Jessi Schlachter" title="Jessi Schlachter"></div>
 
 		<h2>Jessi Schlachter</h2>
 		
@@ -23,7 +23,7 @@
 		<h4>Jessi Schlachter<br/>
 		<a href="tel:16152758233">615-275-8233</a><br/>
 		<a href="mailto:jessi@rootedcounseling.com">email Jessi</a><br/>
-		<a href="/rootedcounseling.com/pdf/form-intake-schlachter.pdf" target="_blank">download Jessi's intake form</a></h4>
+		<a href="/pdf/form-intake-schlachter.pdf" target="_blank">download Jessi's intake form</a></h4>
 		<p>Sessions with Jessi are $120.00.</p>
 
 	</article>

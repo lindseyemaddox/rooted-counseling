@@ -6,7 +6,7 @@
 
 	<article id="home">
 
-		<div class="img"><img src="/rootedcounseling.com/_assets/img/plow.jpg" alt="vintage plow on farm" title="vintage plow on farm"></div>
+		<div class="img"><img src="/_assets/img/plow.jpg" alt="vintage plow on farm" title="vintage plow on farm"></div>
 
 		<h2>Settle in</h2>
 
