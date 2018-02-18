@@ -7,7 +7,7 @@
 		"uuidString": "52BE3B6F-D3D8-419F-87EA-A91657B7A1C8"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -445,16 +445,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_assets\/img\/michael-randolph.jpg": {
-		"ft": 16384,
-		"iS": 27990,
-		"oA": 0,
-		"oAP": "\/_assets\/img\/michael-randolph.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_assets\/img\/plow.jpg": {
 		"ft": 16384,
 		"iS": 511656,
@@ -603,13 +593,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/lane-beatty.php",
-		"oF": 0
-		},
-	"\/michael-randolph.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/michael-randolph.php",
 		"oF": 0
 		},
 	"\/pdf\/directions.pdf": {
@@ -1262,6 +1245,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

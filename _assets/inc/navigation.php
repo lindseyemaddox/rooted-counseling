@@ -29,7 +29,6 @@
 						<li><a href="/ashley-colclasure.php">Ashley Colclasure</a></li>
 						<li><a href="/lane-beatty.php">Lane Beatty</a></li>
 						<li><a href="/courtney-mcinturff.php">Courtney McInturff</a></li>
-						<li><a href="/michael-randolph.php">Michael Randolph</a></li>
 						<li><a href="/jessi-schlachter.php">Jessi Schlachter</a></li>
 					</ul>
 				</li>
