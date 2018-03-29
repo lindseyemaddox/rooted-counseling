@@ -96,14 +96,6 @@
 
 	<article>
 
-		<p><a href="/michael-randolph.php">Michael Randolph</a><br/>
-		<a href="tel:16156695734">615-669-5734</a><br/>
-		<a href="mailto:michael@rootedcounseling.com">Michael@RootedCounseling.com</a></p>
-
-	</article>
-
-	<article>
-
 		<p><a href="/jessi-bewley.php">Jessi Schlachter</a><br/>
 		<a href="tel:16152758233">615-275-8233</a><br/>
 		<a href="mailto:jessi@rootedcounseling.com">Jessi@RootedCounseling.com</a></p>
